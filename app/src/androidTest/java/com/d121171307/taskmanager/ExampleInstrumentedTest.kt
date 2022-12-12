@@ -1,4 +1,4 @@
-package com.example.todolisttutorial
+package com.d121171307.taskmanager
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

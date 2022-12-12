@@ -1,9 +1,9 @@
-package com.example.todolisttutorial
+package com.d121171307.taskmanager
 
 import android.content.Context
 import android.graphics.Paint
 import androidx.recyclerview.widget.RecyclerView
-import com.example.todolisttutorial.databinding.TaskItemCellBinding
+import com.example.taskmanager.databinding.TaskItemCellBinding
 import java.time.format.DateTimeFormatter
 
 class TaskItemViewHolder(

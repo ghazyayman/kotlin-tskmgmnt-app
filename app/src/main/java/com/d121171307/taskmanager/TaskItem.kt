@@ -1,10 +1,11 @@
-package com.example.todolisttutorial
+package com.d121171307.taskmanager
 
 import android.content.Context
 import androidx.core.content.ContextCompat
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import com.example.todolisttutorial.R
 import java.time.LocalDate
 import java.time.LocalTime
 import java.time.format.DateTimeFormatter
