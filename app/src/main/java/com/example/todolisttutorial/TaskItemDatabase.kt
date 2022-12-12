@@ -1,4 +1,4 @@
-package com.d121171307.taskmanager
+package com.example.todolisttutorial
 
 import android.content.Context
 import androidx.room.Database

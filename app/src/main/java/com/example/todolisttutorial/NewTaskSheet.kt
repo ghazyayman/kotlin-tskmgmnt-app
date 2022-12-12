@@ -1,4 +1,4 @@
-package com.d121171307.taskmanager
+package com.example.todolisttutorial
 
 import android.app.TimePickerDialog
 import android.os.Bundle
@@ -7,7 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
-import com.example.taskmanager.databinding.FragmentNewTaskSheetBinding
+import com.example.todolisttutorial.databinding.FragmentNewTaskSheetBinding
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import java.time.LocalTime
 
