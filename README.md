@@ -1,3 +1,3 @@
-# kotlin-tskmgr-app
+# kotlin-tskmgmnt-app
 
-I create this project to finish final assessment from Mobile College Class with help of Youtube
+I create this project to for final assessment from Mobile College class with help of Youtube.
